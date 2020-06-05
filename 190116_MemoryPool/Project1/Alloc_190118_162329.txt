@@ -1,0 +1,2 @@
+ARRAY   [0x00796ff8] [00000016 byte] c:\users\user\source\repos\190116\project1\1.cpp : 35 line
+ARRAY   [0x00775638] [00000004 byte] c:\users\user\source\repos\190116\project1\1.cpp : 39 line

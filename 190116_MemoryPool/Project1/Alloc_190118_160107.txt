@@ -1,0 +1,2 @@
+NOALLOC [0x6f6c6c41]
+LEAK    [0x004f5638] [00000008 byte] c:\users\user\source\repos\190116\project1\1.cpp : 35 line
